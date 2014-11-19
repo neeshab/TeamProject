@@ -12,3 +12,5 @@ int apiScore;
 }
 
 #endif // SCHOOL_H_INCLUDED
+
+//Let's see if we can make any changes to it

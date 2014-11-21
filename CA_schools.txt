@@ -1,0 +1,200 @@
+01611196090047	Henry Haight Elementary	Alameda	854
+01611196090054	Lincoln Middle	Alameda	904
+01611760135244	Mission San Jose High	Alameda	951
+01611760138693	Washington High	Alameda	792
+01611766000541	John Blacow Elementary	Alameda	815
+02613336002794	Diamond Valley Elementary	Alpine	805
+03739810330753	Amador High	Amador	823
+03739810334755	Argonaut High	Amador	790
+03739816002810	Ione Elementary	Amador	790
+03739816002869	Plymouth Elementary	Amador	833
+03739816002877	Sutter Creek Elementary	Amador	817
+04614996003198	Manzanita Elementary	Butte	861
+04615070110072	Ishi Hills Middle	Butte	785
+04615150434803	Las Plumas High	Butte	733
+04733796002927	Berry Creek Elementary	Butte	733
+04755070433953	Gridley High	Butte	791
+05615560532507	Bret Harte Union High	Calaveras	798
+05615640530022	Gold Strike High	Calaveras	670
+05615646003446	Valley Springs Elementary	Calaveras	801
+05615646003453	West Point Elementary	Calaveras	677
+05615646105431	Toyon Middle	Calaveras	826
+06615986057152	George T. Egling Middle	Colusa	754
+06616140635250	Pierce High	Colusa	742
+06616146003511	Arbuckle Elementary	Colusa	803
+06616066003503	Maxwell Elementary	Colusa	772
+06616220637504	Williams High	Colusa	653
+07616480730465	Deer Valley High	Contra Costa	734
+07616480730861	Antioch High	Contra Costa	669
+07616486003578	Belshaw Elementary	Contra Costa	776
+07617546004048	El Monte Elementary	Contra Costa	797
+07617546004055	Fair Oaks Elementary	Contra Costa	722
+07617546004063	Foothill Middle	Contra Costa	889
+09618386110456	Silva Valley Elementary	El Dorado	933
+09618386112361	Rolling Hills Middle	El Dorado	910
+09619030937805	South Tahoe High	El Dorado	753
+09619780101519	Pleasant Grove Middle	El Dorado	898
+09619780108258	Lakeview Elementary	El Dorado	928
+10621170123869	Roger S. Oraze Elementary	Fresno	876
+10621171030196	Clovis West High	Fresno	856
+10621251031376	Coalinga High	Fresno	690
+10621256005961	Huron Elementary	Fresno	663
+10621661030279	Bullard High	Fresno	758
+10621666057343	Tenaya Middle	Fresno	752
+10621666057350	Wawona Middle	Fresno	729
+10624146007108	Centerville Elementary	Fresno	876
+11754811135656	Orland High	Glenn	735
+11754816007470	Fairview Elementary	Glenn	755
+11754816007488	Mill Street Elementary	Glenn	648
+12626871235209	McKinleyville High	Humboldt	755
+12626956007686	Big Lagoon Elementary	Humboldt	797
+12629506008056	Dows Prairie Elementary	Humboldt	800
+12629506008064	McKinleyville Middle	Humboldt	809
+12629506008072	Morris Elementary	Humboldt	865
+13630736008270	Miguel Hidalgo Elementary	Imperial	812
+13630736008288	J. W. Oakley Elementary	Imperial	803
+13631071332501	Calipatria High	Imperial	754
+13631236008445	Kennedy Middle	Imperial	809
+13632141337609	San Pasqual Valley High	Imperial	640
+14766871431600	Bishop Union High	Inyo	740
+14766876008700	Home Street Middle	Inyo	821
+14766876008726	Pine Street Elementary	Inyo	766
+15633626105423	Laurelglen Elementary	Kern	745
+15633626107619	Tevis Junior High	Kern	812
+15633626107627	Leo B. Hart Elementary	Kern	777
+15637761534957	Rosamond High	Kern	706
+15634040106575	Harvest Elementary	Kern	767
+15634040112185	La Vina Middle	Kern	788
+16639170110981	Hamilton Elementary	Kings	798
+16639176010409	Lee Richmond Elementary	Kings	749
+16639251630169	Hanford West High	Kings	733
+16639746111934	Liberty Middle	Kings	792
+16639746118590	Cinnamon Elementary	Kings	798
+17640221735000	Lower Lake High	Lake	695
+18640896010698	Big Valley Elementary	Lassen	741
+18641056010730	Janesville Elementary	Lassen	832
+18642041838507	Westwood High	Lassen	738
+19642876011449	Kenmore Elementary	Los Angeles	824
+19642876011456	Jerry D. Holland Middle	Los Angeles	744
+19642876011464	Margaret Heath Elementary	Los Angeles	748
+19643786012090	Glen Oak Elementary	Los Angeles	833
+19643786012116	Royal Oak Middle	Los Angeles	782
+19645681996131	Anderson W. Clark Magnet High	Los Angeles	913
+19645686013619	Balboa Elementary	Los Angeles	900
+19647176015069	Lakeside Middle	Los Angeles	840
+19647330109512	Cal Burke High	Los Angeles	591
+19647330111997	Huntington Park Elementary	Los Angeles	785
+19649806022644	Will Rogers Elementary	Los Angeles	830
+19649806058531	John Adams Middle	Los Angeles	839
+20651930113076	Ronald Reagan Elementary	Madera	760
+20651936023881	Merle L. Fuller Elementary	Madera	776
+20651936023907	Wilson Middle	Madera	740
+21653596024343	San Geronimo Valley Elementary	Marin	707
+21653676024350	Hall Middle	Marin	911
+23738666025241	Potter Valley Elementary	Mendocino	734
+23739162332260	Laytonville High	Mendocino	728
+24657716025621	Franklin Elementary	Merced	823
+24657716025647	Herbert Hoover Middle	Merced	731
+27754406118756	Rose Ferrero Elementary	Monterey	792
+27754732730067	Somavia High	Monterey	478
+27754732730885	Gonzales High	Monterey	662
+28662666027007	Yountville Elementary	Napa	784
+28662666058788	Redwood Middle	Napa	808
+28662666026876	Napa Junction Elementary	Napa	728
+28662666026892	Northwood Elementary	Napa	830
+29663572930030	Sierra Mountain High	Nevada	717
+29663572930048	Bear River High	Nevada	816
+30664236113393	Olive Street Elementary	Orange	740
+30664236116123	Westmont Elementary	Orange	756
+30664313033115	John F. Kennedy High	Orange	856
+30664313033784	Loara High	Orange	734
+30666700116582	Heroes Elementary	Orange	742
+30666703030475	Cesar E. Chavez High	Orange	494
+31669106109482	Ferris Spanger Elementary	Placer	874
+31669106111959	Vencil Brown Elementary	Placer	897
+31669106111967	George A. Buljan Middle	Placer	864
+32669696031413	Chester Elementary	Plumas	873
+32669696031421	Indian Valley Elementary	Plumas	771
+33669776098156	Loma Vista Middle	Riverside	788
+33669776106074	S. Christa McAuliffe Elementary	Riverside	827
+33671736059109	Raymond Cree Middle	Riverside	746
+33671736102560	Julius Corsini Elementary	Riverside	753
+34673146033062	Franklin Elementary	Sacramento	869
+34673146033088	James A. McKee Elementary	Sacramento	831
+34674473438504	San Juan High	Sacramento	661
+34674476034342	Arcade Fundamental Middle	Sacramento	827
+34674476034359	Arden Middle	Sacramento	823
+34752836117527	Natomas Middle	Sacramento	725
+34752836117535	Natomas Park Elementary	Sacramento	802
+36676456104525	Bear Gulch Elementary	San Bernardino	822
+36676456106603	Coyote Canyon Elementary	San Bernardino	836
+36676456110704	Ruth Musser Middle	San Bernardino	842
+36677106111173	Hemlock Elementary	San Bernardino	809
+36677106113351	Harry S. Truman Middle	San Bernardino	737
+36678506059455	Rialto Middle	San Bernardino	737
+36678506061899	Kolb Middle	San Bernardino	762
+36678683630241	Mountain High	San Bernardino	584
+37681556097182	Oak Grove Middle	San Diego	847
+37681976038574	Rolando Elementary	San Diego	861
+37681976038590	Spring Valley Middle	San Diego	803
+37683386106181	De Portola Middle	San Diego	866
+37683386106199	Zamorano Elementary	San Diego	856
+37683386107056	Challenger Middle	San Diego	903
+38684783830437	Gateway High	San Francisco	745
+38684783831765	Galileo High	San Francisco	758
+38684786040778	Bryant Elementary	San Francisco	703
+38684786040828	Clarendon Alternative Elementary	San Francisco	956
+38684786062020	Aptos Middle	San Francisco	818
+38684786062038	Everett Middle	San Francisco	728
+39685773933959	Linden High	San Joaquin	780
+39685776041966	Glenwood Elementary	San Joaquin	704
+39685930112565	New Vision High	San Joaquin	472
+39685930113357	Mossdale Elementary	San Joaquin	785
+39685930116376	Lathrop High	San Joaquin	726
+40688256043319	Lillian Larsen Elementary	San Luis Obispo	780
+40688334037008	Shandon High	San Luis Obispo	716
+40688336043335	Parkfield Elementary	San Luis Obispo	760
+41688826043590	Roosevelt Elementary	San Mateo	917
+41688826043608	Washington Elementary	San Mateo	895
+41688904132817	Half Moon Bay High	San Mateo	794
+41689086043707	Crocker Middle	San Mateo	962
+41690396044945	Laurel Elementary	San Mateo	825
+41690396044952	College Park Elementary	San Mateo	892
+42691200102863	Liberty Elementary	Santa Barbara	697
+42691206045272	Bonita Elementary	Santa Barbara	719
+43693696068910	Joseph George Middle	Santa Clara	757
+43693696089270	Ocala Middle	Santa Clara	730
+43693776068928	Morrill Middle	Santa Clara	815
+43693776089288	Cherrywood Elementary	Santa Clara	838
+43693776093033	Sierramont Middle	Santa Clara	878
+43694014336137	Prospect High	Santa Clara	793
+43694684334462	Monta Vista High	Santa Clara	956
+43695344337762	Saratoga High	Santa Clara	938
+44698234437109	Santa Cruz High	Santa Cruz	789
+44698234437406	Soquel High	Santa Cruz	777
+44698236060149	Branciforte Middle	Santa Cruz	785
+44754326049944	Scotts Valley Middle	Santa Cruz	893
+44754326049951	Vine Hill Elementary	Santa Cruz	891
+45698806113260	Black Butte Junior High	Shasta	784
+45699146050124	Anderson Middle	Shasta	763
+45700036050330	Grant Elementary	Shasta	897
+45700116050348	Happy Valley Elementary	Shasta	807
+46701774634259	Loyalton High	Sierra	787
+47702504732707	Dunsmuir High	Siskiyou	732
+47703186050769	Gazelle Elementary	Siskiyou	859
+48705814830147	Jesse M. Bethel High	Solano	724
+48705736106363	Vaca Pena Middle	Solano	799
+48705736109094	Jean Callison Elementary	Solano	832
+50711676052658	El Vista Elementary	Stanislaus	697
+50711676052666	Enslen Elementary	Stanislaus	853
+54720336054191	Palo Verde Elementary	Tulare	809
+54720410114165	Pixley Middle	Tulare	641
+56725205634076	Nordhoff High	Ventura	784
+56725206055198	Meiners Oaks Elementary	Ventura	773
+56738746098255	Medea Creek Middle	Ventura	948
+56738746107528	Oak Hills Elementary	Ventura	957
+56725386055263	Curren Elementary	Ventura	752
+56725386055271	Driffill Elementary	Ventura	705
+58727366056774	Kynoch Elementary	Yuba	811
+58727366056782	Yuba Feather Elementary	Yuba	794
+58727695838305	Wheatland Union High	Yuba	767
